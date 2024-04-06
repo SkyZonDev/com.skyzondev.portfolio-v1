@@ -1,3 +1,3 @@
 ## Documentation
 
-> Template de mon premier portfolio codé en HTML, CSS, JS avec le Framework jQuery.
+> Template of my first portfolio coded in HTML, CSS, JS with the Framework jQuery.
